@@ -1,4 +1,4 @@
-# where_are_the_ships
+# Where Are the Ships
 This repository contains my answer to the portfolio project given by Codecademy in CS101: Introduction to Programming. 
 
 It's a terminal guessing game where you need to find six ships that the computer hid in a 7x7 grid. In all honesty, it's not riveting to play. However, it was fun to make.
