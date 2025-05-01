@@ -2,7 +2,7 @@ from ast import Break
 import random
 import time
 import os
-clear = lambda: os.system('clear')
+clear = lambda: os.system('cls')
 
 
 class Game:
